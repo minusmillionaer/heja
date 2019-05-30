@@ -22,6 +22,8 @@
  * https://github.com/michael-dev/php-sepa-lastschrift
  */
 
+namespace Netzfabrik\Payments\Sepa;
+
 global $sepaLastschriftXMLVersion; # 008.002.02
 global $sepaLastschriftXSD; # ../media/
 
