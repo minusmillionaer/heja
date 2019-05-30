@@ -1,7 +1,7 @@
 {
-  "name": "netzfabrik/heja",
+  "name": "netzfabrik/sepa",
   "type": "library",
-  "description": "Trees builds a effective tree structure in Laravel",
+  "description": "php lib to create sepa xml file",
   "keywords": [
     "GiulianoSchindler",
     "Netzfabrik",
@@ -9,7 +9,7 @@
     "Heja",
     "Xml"
   ],
-  "homepage": "https://github.com/minusmillionaer/heja",
+  "homepage": "https://github.com/minusmillionaer/netzfabrik-sepa",
   "license": "LGPL-3.0",
   "authors": [
     {
