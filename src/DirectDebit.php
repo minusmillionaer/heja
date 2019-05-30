@@ -32,7 +32,7 @@ global $sepaLastschriftXSD; # ../media/
  * für SEPA Lastschriften
  * Payment-Id := <Message-Id>-<Type>
  */
-class SEPALastschrift {
+class DirectDebit {
   private $date; /* Y-m-d\TH:i:s\Z */
   private $msgid; /* ([A-Za-z0-9]|[\+|\?|/|\-|:|\(|\)|\.|,|'| ]){1,35} */
   private $txs = Array(); /* $type => Array */
